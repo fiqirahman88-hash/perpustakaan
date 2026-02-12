@@ -1,0 +1,8 @@
+{
+  "name": "SmartLib Digital - Perpustakaan Digital Pintar",
+  "description": "A professional digital library management system for schools featuring multi-role access (Admin/Student), book management, real-time analytics, and AI-powered book insights using Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
