@@ -16,7 +16,7 @@ export default {
           200: '#ffc5c5',
           300: '#ff9d9d',
           400: '#ff6464',
-          50: '#fef2f2',
+          500: '#fef2f2',
           600: '#b91c1c',
           700: '#991b1b',
           800: '#800000', // Actual Maroon

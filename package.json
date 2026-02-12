@@ -1,7 +1,7 @@
 {
-  "name": "smartlib-digital---perpustakaan-digital-pintar",
+  "name": "smartlib-digital",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -9,17 +9,17 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "react": "^19.2.4",
-    "react-dom": "^19.2.4",
-    "lucide-react": "0.463.0",
-    "recharts": "2.15.0",
-    "@google/genai": "1.40.0",
-    "pdfjs-dist": "4.0.379"
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "lucide-react": "^0.463.0",
+    "recharts": "^2.15.0",
+    "@google/genai": "^1.40.0",
+    "pdfjs-dist": "^4.0.379"
   },
   "devDependencies": {
-    "@types/node": "^22.14.0",
-    "@vitejs/plugin-react": "^5.0.0",
-    "typescript": "~5.8.2",
-    "vite": "^6.2.0"
+    "vite": "^6.0.3",
+    "tailwindcss": "^3.4.17",
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49"
   }
 }
